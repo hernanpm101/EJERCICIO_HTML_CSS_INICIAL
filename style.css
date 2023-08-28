@@ -1,0 +1,11 @@
+
+h1{
+    color: rgb(13, 55, 145);
+}
+p{
+    color: chartreuse;
+}
+a{
+    color: darkmagenta;
+    text-decoration: none;    /*esto es solo para el link osea el subrayado*/
+}
